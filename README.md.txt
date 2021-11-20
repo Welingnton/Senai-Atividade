@@ -1,1 +1,1 @@
-Desenvolver uma interface de fácil acesso ao cliente.
+Desenvolver uma interface de fácil acesso ao cliente
